@@ -1,0 +1,9 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'test.blg'
+[37] biber-darwin:315> INFO - === Tue Jul 16, 2019, 10:15:39
+[64] Biber.pm:371> INFO - Reading 'test.bcf'
+[153] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[159] Utils.pm:193> WARN - The file 'test.bcf' does not contain any citations!
+[166] bbl.pm:636> INFO - Writing 'test.bbl' with encoding 'UTF-8'
+[166] bbl.pm:739> INFO - Output to test.bbl
+[166] Biber.pm:110> INFO - WARNINGS: 1
