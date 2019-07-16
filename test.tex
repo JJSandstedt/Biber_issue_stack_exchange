@@ -1,0 +1,18 @@
+\documentclass[12pt,a4paper]{article} % or whatever
+
+\usepackage[
+backend=biber,
+        bibstyle=biblatex-langsci-unified,
+        useprefix=true,
+        citestyle=langsci-authoryear-comp,
+        maxcitenames=3,
+        maxbibnames=99]{biblatex}
+        
+        \addbibresource{bib.bib}
+
+\begin{document}
+
+This is a test \parencite{kutschlojenga94}.
+
+\printbibliography
+\end{document}
